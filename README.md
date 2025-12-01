@@ -11,7 +11,7 @@ NIM :  230040161
 ### Nama 3 : Karina Ramadhani Zakia Putri  
 NIM : 230040204  
 
-### Nama 3 : I Gede Reynaldi Sumarjaya 
+### Nama 4 : I Gede Reynaldi Sumarjaya 
 NIM : 230040062
 
 ## 📌 Tema Project
