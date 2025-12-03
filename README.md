@@ -19,3 +19,7 @@ Aplikasi *Mental Health Journal* berbasis React Native yang berfungsi untuk menc
 
 ## 🔗 Source Code Project
 https://github.com/suwenahana-png/mental-health-journal-app
+
+## 🎥 Demo Aplikasi (YouTube)
+
+https://youtu.be/yPCatZDgUHk?si=sme70gDwZlU_ZOrV
