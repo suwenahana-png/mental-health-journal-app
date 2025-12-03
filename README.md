@@ -18,7 +18,7 @@ NIM : 230040062
 Aplikasi *Mental Health Journal* berbasis React Native yang berfungsi untuk mencatat mood harian, membuat jurnal harian, dan melihat perkembangan emosional pengguna.
 
 ## 🔗 Source Code Project
-https://github.com/suwenahana-png/mental-health-journal-app
+https://github.com/suwenahana-png/mental-health-journal-app.git
 
 ## 🎥 Demo Aplikasi (YouTube)
 
